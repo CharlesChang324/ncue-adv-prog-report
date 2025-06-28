@@ -1,0 +1,3 @@
+檔案較大，多開幾次或下載打開
+又或是colab一樣的：
+https://colab.research.google.com/drive/1mJAuMuSptaBiZCTAZIphUimOVMX0TJpQ?usp=sharing
